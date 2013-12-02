@@ -1,0 +1,1031 @@
+@media (min-width: 768px) and (max-width: 1000px) {
+	#menu {
+		display: none;	
+	}
+	
+	#mobile-nav {
+    	display: block;
+		float: right;
+	}
+	
+	#menu-nav-mobile {
+		margin: 0;
+	}
+	
+	header .sticky-nav #mobile-nav,
+	header .sticky-nav.stuck #mobile-nav {
+		margin-right: 20px;	
+	}
+	
+	#social-area #social ul li {
+		margin-left: 15px;
+	}
+	
+	#social-area #social ul li a {
+		width: 50px;
+		height: 50px;
+	}
+	
+	#social-area #social ul li a span {
+		font-size: 24px;
+		line-height: 50px;
+	}
+	
+	#twitter-feed {
+		padding-top: 110px;
+		padding-bottom: 110px;	
+	}
+	
+	.info-block a.button {
+    	margin-top: 20px;
+    	position: inherit;
+	}
+	
+	.info-text {
+		padding-right: 0;	
+	}
+
+
+	/************** Home page *************/
+	.motor-show > a{
+		font-size: 30px;
+	}
+	.big-curve > a{
+		font-size: 30px;
+	}
+	.curve-word > a{
+		font-size: 30px;
+	}
+	.curve-word{
+		font-size: 30px;
+	}
+
+	.curve-politics{
+		padding-top: 10%;
+	}
+
+	/********   Motor Show **********/
+	.motor-title{
+		font-size: 40px;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+	#back-to-top {
+		display: none !important;	
+	}
+	
+	#home-slider {
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+	
+	header .sticky-nav {
+		position: relative;	
+	}
+	
+	header .sticky-nav,
+	#navigation-mobile,
+	.page,
+	.page-alternate,
+	#twitter-feed,
+	footer {
+		margin-left: -20px;
+		margin-right: -20px;
+		padding-left: 20px;
+		padding-right: 20px;	
+	}
+	
+	header .sticky-nav #logo {
+		margin-left: 0;
+	}
+	
+	header .sticky-nav.stuck #logo {
+		margin-left: 20px;	
+	}
+	
+	header .sticky-nav #menu {
+		margin-right: 0;
+	}
+	
+	header .sticky-nav.stuck #menu {
+		margin-right: 20px;	
+	}
+	
+	#menu {
+		display: none;	
+	}
+	
+	#mobile-nav {
+    	display: block;
+		float: right;
+	}
+	
+	#menu-nav-mobile {
+		margin-left: -20px;
+		margin-right: -20px;
+		margin-bottom: 0;
+	}
+	
+	header .sticky-nav.stuck #mobile-nav {
+		margin-right: 20px;	
+	}
+	
+	.work-nav {
+		margin-bottom: 30px;	
+	}
+	
+	.type-work {
+		background: url(../img/filter-icon.png) no-repeat;
+		width: 16px;
+		height: 16px;
+		display: inline-block;
+		text-indent: -9999px;
+		margin-bottom: 0;
+		position: relative;
+		line-height: 10px;
+	}
+	
+	.work-nav #filters,
+	.work-nav #filters li {
+		display: inline-block;
+	}
+	
+	.work-nav #filters li {
+		margin:0 10px 0 0;	
+	}
+	
+	.work-nav #filters li a {
+		font-size: 13px;
+		text-transform: uppercase;	
+	}
+	
+	#about .profile {
+		margin-bottom: 30px;	
+	}
+	
+	#about .profile:last-child {
+		margin-bottom: 0;	
+	}
+	
+	#response {
+		margin-bottom: 30px;	
+	}
+	
+	.contact-details {
+		border-top: 1px dashed #3C3F45;
+		padding-top: 30px;
+		text-align: center;	
+	}
+	
+	#contact-form .submit {
+		width: 100%;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;	
+	}
+	
+	#social-area #social ul li:first-child,
+	#social-area #social ul li {
+		margin: 15px;
+	}
+	
+	#social-area #social ul li a {
+		width: 50px;
+		height: 50px;
+	}
+	
+	#social-area #social ul li a span {
+		font-size: 24px;
+		line-height: 50px;
+	}
+	
+	#twitter-feed {
+		padding-top: 90px;
+		padding-bottom: 100px;	
+	}
+	
+	#ticker .tweet_list li {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	
+	#ticker .tweet_list .tweet_time a {
+		font-size: 13px;
+		margin-left: 5px;	
+	}
+	
+	.info-block a.button {
+    	margin-top: 20px;
+    	position: inherit;
+		display: block;
+	}
+	
+	.info-text {
+		padding-right: 0;	
+	}
+}
+
+@media (max-width: 480px) {
+	#back-to-top {
+		display: none !important;	
+	}
+	
+	#home-slider {
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+	
+	#home-slider ul#slide-list {
+		display: none;	
+	}
+	
+	header .sticky-nav {
+		position: relative;	
+	}
+	
+	header .sticky-nav,
+	#navigation-mobile,
+	.page,
+	.page-alternate,
+	#twitter-feed,
+	footer {
+		margin-left: -20px;
+		margin-right: -20px;
+		padding-left: 20px;
+		padding-right: 20px;	
+	}
+	
+	header .sticky-nav #logo {
+		margin-left: 0;
+	}
+	
+	header .sticky-nav.stuck #logo {
+		margin-left: 20px;	
+	}
+	
+	header .sticky-nav #menu {
+		margin-right: 0;
+	}
+	
+	header .sticky-nav.stuck #menu {
+		margin-right: 20px;	
+	}
+	
+	#menu {
+		display: none;	
+	}
+	
+	#mobile-nav {
+    	display: block;
+		float: right;
+	}
+	
+	#menu-nav-mobile {
+		margin-left: -20px;
+		margin-right: -20px;
+		margin-bottom: 0;
+	}
+	
+	#navigation-mobile li a {
+		font-size: 14px;
+		padding: 12px 0;
+	}
+	
+	header .sticky-nav.stuck #mobile-nav {
+		margin-right: 20px;	
+	}
+	
+	.work-nav {
+		margin-bottom: 30px;	
+	}
+	
+	.type-work {
+		background: url(../img/filter-icon.png) no-repeat;
+		width: 16px;
+		height: 16px;
+		display: inline-block;
+		text-indent: -9999px;
+		margin-bottom: 0;
+		position: relative;
+		line-height: 10px;
+	}
+	
+	.work-nav #filters li:first-child {
+		margin-left: 0;	
+	}
+	
+	.work-nav #filters,
+	.work-nav #filters li {
+		display: inline-block;
+	}
+	
+	.work-nav #filters li {
+		margin:0 10px 0 0;	
+	}
+	
+	.work-nav #filters li a {
+		font-size: 13px;
+		text-transform: uppercase;	
+	}
+	
+	#about .profile {
+		margin-bottom: 30px;	
+	}
+	
+	#about .profile:last-child {
+		margin-bottom: 0;	
+	}
+	
+	#response {
+		margin-bottom: 30px;	
+	}
+	
+	.contact-details {
+		border-top: 1px dashed #3C3F45;
+		padding-top: 30px;
+		text-align: center;	
+	}
+	
+	#contact-form .submit {
+		width: 100%;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;	
+	}
+	
+	#social-area #social ul li:first-child,
+	#social-area #social ul li {
+		margin: 15px;
+	}
+	
+	#social-area #social ul li a {
+		width: 50px;
+		height: 50px;
+	}
+	
+	#social-area #social ul li a span {
+		font-size: 24px;
+		line-height: 50px;
+	}
+	
+	#twitter-feed {
+		padding-top: 90px;
+		padding-bottom: 100px;	
+	}
+	
+	#ticker .tweet_list li {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	
+	#ticker .tweet_list .tweet_time a {
+		font-size: 12px;
+		margin-left: 3px;	
+	}
+	
+	.info-block a.button {
+    	margin-top: 20px;
+    	position: inherit;
+		display: block;
+	}
+	
+	.info-text {
+		padding-right: 0;	
+	}
+}
+
+@media (max-width: 320px) {
+	#navigation-mobile li a {
+		padding: 20px 0;
+	}
+	
+	.work-nav #filters li a {
+		font-size: 12px;
+	}
+	
+	#twitter-feed {
+		padding-top: 90px;
+		padding-bottom: 120px;	
+	}
+}
+
+@media (min-width: 280px) and (max-width: 350px) {
+ .articles {
+  color: #000000;
+  font-family: arial;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 8%;
+  padding-left: 8%;
+  position: absolute;
+  width: 94%;
+}
+     #home-slider {
+  margin-left: -12px;
+  margin-right: 0;
+}
+.the-wire {
+    width: 60%;
+}
+.women-fashion, .men-fashion > a {
+    color: #B4C6EE;
+    font-family: arial;
+    font-size: 20px;
+    margin-top: -10px;
+}
+.heating-up{
+    margin-top: -10px;
+ }
+ .african-boom > a {
+    color: #fff;
+    font-size: 20px;
+}
+.motor-show > a {
+    color: #5DD0B1;
+    float: right;
+    font-size: 14px;
+    font-style: italic;
+    margin-top: -50px;
+}
+.game-puppeteer {
+    float:right;
+    margin-top:-14px
+}
+.men-fashion {
+    margin-top: -15px;
+}
+.pes-review {
+    font-size: 20px;
+    padding-top: 5px;
+    float: left;
+}
+.curve-word {
+    color: #B4C6EE;
+    font-size: 19px;
+    font-weight: bold;
+    padding-top: 9px;
+    transform:scale(1,1);
+}
+.big-curve {
+    color: #B4C6EE;
+    font-size: 20px;
+    padding-top: 8px;
+    font-weight: bold;
+    margin-right: 0px;
+    transform:scale(2,2);
+    float: left;
+}
+.politics {
+    font-size: 20px;
+    position: relative;
+    right: 0;
+    width: auto;
+}
+.curve-politics {
+    padding-top: 0;
+}
+.curve-politics > a {
+    color: #B4C6EE;
+    float: left;
+    font-family: arial;
+    padding-top: 40px;
+}
+.wired-live {
+  color: #3D5791;
+  float: left;
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding-top: 0;
+}
+.break-up {
+  color: #B4C6EE;
+  float: right;
+  padding-top: 10px;
+}
+#home-slider .control-nav {
+    width:94%;
+}
+.sticky-wrapper, .sticky-nav{
+    height:40px ! important;
+}
+.sticky-nav, #navigation-mobile, .page, .page-alternate, #twitter-feed {
+ margin-left: 0px! important;
+  margin-right:  0px ! important;
+  padding-left:  0px ! important;
+  padding-right:  0px ! important;
+}
+.page{
+    margin-top: 45px! important;
+}
+header #logo{
+    padding:6px 0px;
+}
+header .sticky-nav.stuck #mobile-nav {
+    margin-right: 20px;
+    margin-top: 13px;
+}
+
+/**************PAGE 2******************/
+
+.fashion-text span{
+    margin-top: -14px;
+}
+.fashion-text{
+    font-size: 13px;
+}
+
+
+/**************PAGE 3******************/
+
+
+.men-container{
+    position: relative;
+    background-color: #000;
+}
+.intro-text {
+  color: #FFFEFE;
+  font-family: arial;
+  font-size: 13px;
+  position: absolute;
+  right: 5%;
+  top: 60px;
+  width: 80%;
+}
+.intro-text span{
+    margin-top: -15px;
+}
+.men-left{
+    width: 46%;
+    float: left;
+    }
+.men-shoe{
+    width: 54%;
+    float: left;
+}
+.men-shoe > img, .men-left > img{
+    width: 100%;
+}
+
+.men-middle{
+    vertical-align:middle;
+}
+
+.men-middle > img{
+    width: 50%;
+    padding-right: 10px; 
+}
+
+
+
+/***************************/
+.lW, .rW{
+    margin-left: 0px ! important;
+}
+.curver-text{
+    margin-left: 0px ! important;
+}
+.lW, .rW{
+    height: auto ! important;
+    width: 100% ! important;
+    font-size: 13px;
+    line-height: 18px;
+}
+.lW, .rW, .mW {
+    padding: 0;
+}
+
+
+
+/****************************/
+.bif{
+    font-size: 22px! important;
+}
+.breaking-title{
+    font-size: 18px! important;
+}
+
+
+/******************************/
+.motor-title {
+    float: left;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(6, 11, 57);
+    text-align: center;
+}
+.title-page {
+    text-align: center;
+    margin-bottom: 0;
+}
+#motor p{
+    line-height: 15px;
+    font-size: 13px;
+    margin: 0 0 10px;
+}
+
+
+
+/********************************/
+
+.pes-text p{
+    margin: 0 0 10px;
+    line-height: 15px;
+    font-size: 13px;
+}
+
+/********************************/
+
+.rewired-heading {
+    font-size: 20px;
+    transform: scale(1, 1);
+    padding-top: 10px;
+}
+.rewired-content{
+    width: 100%;
+}
+.rewired-content p{
+    margin: 0 0 10px;
+    line-height: 15px;
+    font-size: 13px;
+
+}
+.wired02{
+    width: 100%;
+}
+.wire02 > img {
+    width: 100%;
+}
+.wire01, .wire03, .wire04 > img {
+    width: 100%! important;
+}
+.wire-images{
+    width: 100%! important;
+}
+.wire01 .text-wire{
+    float: right! important;
+}
+.heading-wire {
+    color: rgb(77, 13, 66);
+    transform: scale(1, 2);
+    font-size: 15px;
+}
+
+
+
+/********************************/
+
+.heating-title > img {
+    float: right;
+    width: 35%;
+    padding-right: 5%;
+}
+.heating-title{
+    font-size: 20px;
+}
+.heating-full p{
+    margin: 0 0 10px;
+    line-height: 15px;
+    font-size: 13px;
+
+}
+.topics {
+    font-size:14px;
+}
+.hotbox-next-social {
+    padding-top: 3%;
+    margin-left: 0;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media (min-width: 0px) and (max-width: 280px) {
+ .articles {
+  color: #000000;
+  font-family: arial;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 8%;
+  padding-left: 8%;
+  position: absolute;
+  width: 94%;
+}
+     #home-slider {
+  margin-left: -12px;
+  margin-right: 0;
+}
+     .the-wire {
+         width: 60%;
+     }
+     .women-fashion, .men-fashion > a {
+    color: #B4C6EE;
+    font-family: arial;
+    font-size: 20px;
+    margin-top: -10px;
+}
+.heating-up{
+    margin-top: -10px;
+ }
+ .african-boom > a {
+    color: #fff;
+    font-size: 20px;
+}
+.motor-show > a {
+  color: #5DD0B1;
+  float: right;
+  font-size: 14px;
+  font-style: italic;
+  margin-top: -50px;
+}
+.game-puppeteer {
+    float:right; margin-top:-14px
+}
+.men-fashion {
+    margin-top: -15px;
+}
+.pes-review {
+  font-size: 20px;
+  padding-top: 5px;
+  float: left;
+}
+.curve-word {
+    color: #B4C6EE;
+    font-size: 19px;
+    font-weight: bold;
+    padding-top: 9px;
+    transform:scale(1,1);
+}
+.big-curve {
+    color: #B4C6EE;
+    font-size: 20px;
+    padding-top: 8px;
+    font-weight: bold;
+    margin-right: 0px;
+    transform:scale(2,2);
+    float: left;
+}
+.politics {
+  font-size: 20px;
+  position: relative;
+  right: 0;
+  width: auto;
+
+}
+.curve-politics {
+    padding-top: 0;
+}
+.curve-politics > a {
+    color: #B4C6EE;
+    float: left;
+    font-family: arial;
+    padding-top: 40px;
+}
+.wired-live {
+  color: #3D5791;
+  float: left;
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding-top: 0;
+}
+.break-up {
+  color: #B4C6EE;
+  float: right;
+  padding-top: 10px;
+}
+#home-slider .control-nav {
+    width:94%;
+}
+.sticky-wrapper, .sticky-nav{
+    height:40px ! important;
+}
+.sticky-nav, #navigation-mobile, .page, .page-alternate, #twitter-feed {
+ margin-left: 0px! important;
+  margin-right:  0px ! important;
+  padding-left:  0px ! important;
+  padding-right:  0px ! important;
+}
+.page{
+    margin-top: 45px! important;
+}
+header #logo{
+    padding:6px 0px;
+}
+header .sticky-nav.stuck #mobile-nav {
+    margin-right: 20px;
+    margin-top: 13px;
+}
+
+/**************PAGE 2******************/
+
+.fashion-text span{
+    margin-top: -14px;
+}
+.fashion-text{
+    font-size: 13px;
+}
+
+
+/**************PAGE 3******************/
+
+
+.men-container{
+    position: relative;
+    background-color: #000;
+}
+.intro-text {
+  color: #FFFEFE;
+  font-family: arial;
+  font-size: 13px;
+  position: absolute;
+  right: 5%;
+  top: 60px;
+  width: 80%;
+}
+.intro-text span{
+    margin-top: -15px;
+}
+.men-left{
+    width: 46%;
+    float: left;
+    }
+.men-shoe{
+    width: 54%;
+    float: left;
+}
+.men-shoe > img, .men-left > img{
+    width: 100%;
+}
+
+.men-middle{
+    vertical-align:middle;
+}
+
+.men-middle > img{
+    width: 50%;
+    padding-right: 10px; 
+}
+
+
+
+/***************************/
+.lW, .rW{
+    margin-left: 0px ! important;
+}
+.curver-text{
+    margin-left: 0px ! important;
+}
+.lW, .rW{
+    height: auto ! important;
+    width: 100% ! important;
+    font-size: 13px;
+    line-height: 18px;
+}
+.lW, .rW, .mW {
+    padding: 0;
+}
+
+
+
+/****************************/
+.bif{
+    font-size: 22px! important;
+}
+.breaking-title{
+    font-size: 18px! important;
+}
+
+
+/******************************/
+.motor-title {
+    float: left;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(6, 11, 57);
+    text-align: center;
+}
+.title-page {
+    text-align: center;
+    margin-bottom: 0;
+}
+#motor p{
+    line-height: 15px;
+    font-size: 13px;
+    margin: 0 0 10px;
+}
+
+
+
+/********************************/
+
+.pes-text p{
+    margin: 0 0 10px;
+    line-height: 15px;
+    font-size: 13px;
+}
+
+/********************************/
+
+.rewired-heading {
+    font-size: 20px;
+    transform: scale(1, 1);
+    padding-top: 10px;
+}
+.rewired-content{
+    width: 100%;
+}
+.rewired-content p{
+    margin: 0 0 10px;
+    line-height: 15px;
+    font-size: 13px;
+
+}
+.wired02{
+    width: 100%;
+}
+.wire02 > img {
+    width: 100%;
+}
+.wire01, .wire03, .wire04 > img {
+    width: 100%! important;
+}
+.wire-images{
+    width: 100%! important;
+}
+.wire01 .text-wire{
+    float: right! important;
+}
+.heading-wire {
+    color: rgb(77, 13, 66);
+    transform: scale(1, 2);
+    font-size: 15px;
+}
+
+
+
+/********************************/
+
+.heating-title > img {
+    float: right;
+    width: 35%;
+    padding-right: 5%;
+}
+.heating-title{
+    font-size: 20px;
+}
+.heating-full p{
+    margin: 0 0 10px;
+    line-height: 15px;
+    font-size: 13px;
+
+}
+.topics {
+    font-size:14px;
+}
+.hotbox-next-social {
+    padding-top: 3%;
+    margin-left: 0;
+}
+    header #logo #goUp{
+}
+}
+
+
+
+/* Retina Display */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+ 	only screen and (-moz-min-device-pixel-ratio: 2),
+  	only screen and (-o-min-device-pixel-ratio: 2/1),
+  	only screen and (min-device-pixel-ratio: 2),
+  	only screen and (min-resolution: 2dppx) {
+		
+		header #logo a {
+			background-image: url(../img/logo_@2x.png);
+			background-size: 96px 30px;
+		}
+		
+		.menu-nav {
+			background-image: url(../img/menu-mobile_@2x.png);
+			background-size: 16px 32px;
+		}
+		
+		.type-work {
+			background-image: url(../img/filter-icon_@2x.png);
+			background-size: 16px 16px;
+		}
+	}
+
+
