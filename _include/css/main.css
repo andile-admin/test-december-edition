@@ -69,7 +69,7 @@ strong {
 }
 
 p {
-	margin: 0 0 30px;
+	margin: 0 0 2px;
 }
 
 hr {
@@ -930,6 +930,20 @@ nav#menu #menu-nav li a:hover {
     background: #060b39;
 }
 
+.gallery-view{
+	float: left;
+	clear: both;
+	margin-left: 2%;
+}
+
+.video-view
+{
+	float: right;
+	margin-right: 2%;
+}
+.right-bmw > img{
+	padding-top: 32%;
+}
 /* ==================================================
    African Boombox Page
 ================================================== */
@@ -1027,12 +1041,31 @@ nav#menu #menu-nav li a:hover {
 }
 
 .social-facebook > img{
-	margin-left: -3px;
+	/*margin-left: -3px;*/
     width: 7.2%;
 }
 .social-twitter{
 	/*margin-left: -3px;*/
     width: 7.2%;
+}
+
+.social-yo {
+    color: #2C0298;
+    font-size: 12px;
+}
+
+.social-yo > img{
+	/*margin-left: -3px;*/
+    width: 5.2%;
+}
+.social-twitt > img{
+	/*margin-left: -3px;*/
+    width: 7.2%;
+}
+
+.social-twit > img{
+	/*margin-left: -3px;*/
+    width: 5.2%;
 }
 
 
@@ -1131,6 +1164,30 @@ nav#menu #menu-nav li a:hover {
 /* ==================================================
    Heating Page
 ================================================== */
+#heating{
+	background-size: cover;
+    position: relative;
+    width: 100%;
+    background-color: #eaf8d7;
+    height: 100%;
+    min-height: 1080px;
+}
+
+.heating-up-title h3{
+	 color: #5B7686;
+    font-family: arial;
+    font-size: 60px;
+    position: absolute;
+    font-weight: bold;
+    right: 4%;
+    top: 6%;
+}
+
+.container-controller{
+	position: absolute;
+	top: 12%;
+}
+
 .heating-left, .right-text, .articles-after{
 	font-family: arial;
 }
@@ -1145,28 +1202,32 @@ nav#menu #menu-nav li a:hover {
 .heating-title{
 	font-family: arial;
 	font-size: 30px;
-	color: #005e20;
+	color: #555656;
 	font-weight: bold;
 }
 
 .heating-full{
 	font-family: arial;
-	font-size: 16px;
+	font-size: 12px;
 	color: #000;
 	font-weight:normal;
 }
 
 .topics{
-	color: #005e20;
+	color: #366b89;
 }
  .right-hotbox{
  	padding-top: 10%;
  }
 
+ .right-hotbox > img{
+ 	width: 60%;
+ }
+
 .hotbox-next-social{
-	padding-top: 10%;
-	/*float: right;*/
-	margin-left: 40%;
+	/*padding-top: 10%;
+	float: right;
+	margin-left: 40%;*/
 	font-family: arial;
 	font-size: 12px;
 	color: #000;
@@ -1187,6 +1248,22 @@ nav#menu #menu-nav li a:hover {
 	width: 100%;
     height: 10px;
     background: #005e20;
+}
+.bottom-section{
+	padding-top: 4%;
+}
+
+.social-twitter > img {
+    width: 8%;
+}
+
+.heating-line-after{
+	background: #5f8499;
+    height: 8px;
+    /*position: absolute;
+    float: right;
+    margin-top: 7.3%; */
+    width: 100%;
 }
 
 /* ==================================================
