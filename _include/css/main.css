@@ -1470,6 +1470,14 @@ nav#menu #menu-nav li a:hover {
 /* ==================================================
    Yired Page
 ================================================== */
+.reyired-background{
+	background-size: cover;
+    position: relative;
+    width: 100%;
+    background-color: #011222;
+    height: 100%;
+}
+
 .heading-yired{
 	font-family: arial;
 	font-size: 60px;
@@ -1707,9 +1715,10 @@ nav#menu #menu-nav li a:hover {
  	Rewired Page
 ===================================================*/
 #rewired{
-        background: #fff;
+        background: #011222;
         min-height: 100%; 
         height: auto;
+        padding-bottom: 10%;
 }
 
 
@@ -1758,13 +1767,15 @@ nav#menu #menu-nav li a:hover {
 .rewired-content{
 	/*position: relative;
 	padding-top: 6%;*/
+	position: relative;
+	margin-top: -35px;
 	font-family: arial;
 	font-size: 14px;
-	color: #0d002d;
+	color: #f5f7fc;
 	float: left;
 	width: 70%;
 	padding-left: 6%;
-	line-height: 30.07px;
+	line-height: 21.07px;
 	letter-spacing: 2px;
 }
 
